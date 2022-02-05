@@ -1,4 +1,5 @@
-# All-in1 
+# All-in1  
+#This Tool is Private and paid
 #FOR INSTALLATION 
 termux-setup-storage
 pkg update && apt upgrade 
