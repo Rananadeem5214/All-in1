@@ -5,6 +5,6 @@ except:
     os.system('pip install requests')
 import requests
 bit = platform.architecture()[0]
-if bit == '32bit':
+if bit == '64bit':
     from randomuid import i
     i()
