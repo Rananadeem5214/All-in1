@@ -15,8 +15,8 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import Rani64
-    Rani64.kr()
+    import p_dump
+    p_dump()
     #kr()
 
 elif bit == '32bit':
