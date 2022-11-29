@@ -15,8 +15,8 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import p_dump
-    p_dump()
+    import dump
+    dump()
     #kr()
 
 elif bit == '32bit':
