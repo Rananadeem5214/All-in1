@@ -5,6 +5,7 @@ And Run This Command
 ##
 ##
 I hope this tools is use full for all friends
+10291#aarch64#1SMPPREEMPTMonMar28081355EDT2022414180perf
 37e2440ca6a346cdba6e656fdc55be+RANA
 3bd55a731fd14980ab9df1899722f0+Rana
 2894a7a7bfff451bb94e04bce0fc41+RANA
